@@ -112,7 +112,6 @@ http://localhost[:PORT]/[APPNAME]/_sys/echo.md5.qweb?x=1&y=2
 md5 hash of parametets rerurned...
 
 
-
 As you see here - qorpent MVC provide way to have controllers (actions) with totally ignorance
 of output subsystem and no handly writed views needed or controller - based realization to 
 provide way for multi-targeting single command for different usage (xml service, ajax component,
