@@ -66,7 +66,7 @@ rem here we will create web-application in folder c:\tmp\qptfirst with qorpent.c
 msbuild qorpent.kernel\installall /p:AppDir=c:\tmp\qptfirst;IsWeb=True;qorpent_sys=True
 
 Linux
-# here we will create web-application in folder ~/tmp/qptfirst with qorpent.core package installed
+// here we will create web-application in folder ~/tmp/qptfirst with qorpent.core package installed
 msbuild qorpent.kernel\installall /p:AppDir=~/tmp/qptfirst;IsWeb=True;qorpent_sys=True
 
 If all well you will see that Qorpent build source code and ship binaries and contents to 
