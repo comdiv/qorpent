@@ -1,4 +1,4 @@
-qorpent
+QORPENT APPLICATION FRAMEWORK (QAF)
 =======
 
 Root of Qorpent Application Framework (information central)
@@ -87,7 +87,7 @@ Linux
 
 // here we will create web-application in folder ~/tmp/qptfirst with qorpent.core package installed
 
-msbuild qorpent.kernel\installall /p:AppDir=~/tmp/qptfirst;IsWeb=True;qorpent_sys=True
+xbuild qorpent.kernel/installall /p:AppDir=/home/<me>/tmp/qptfirst /p:IsWeb=True /p:qorpent_sys=True
 
 If all well you will see that Qorpent build source code and ship binaries and contents to 
 given application folder.
