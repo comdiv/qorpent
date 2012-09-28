@@ -92,6 +92,8 @@ msbuild qorpent.kernel\installall /p:AppDir=~/tmp/qptfirst;IsWeb=True;qorpent_sy
 If all well you will see that Qorpent build source code and ship binaries and contents to 
 given application folder.
 
+# Run!
+
 After regestering app in IIS/Apache you can try open in web browser qorpent application whit basic
 echo action:
 
