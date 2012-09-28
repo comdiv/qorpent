@@ -25,8 +25,8 @@ can be created with repository automatically
 We provide two default packages which provides core functionality and allow quick start 
 writing Qorpent-based applications:
 
-1. [qorpent.kernel|https://github.com/comdiv/qorpent.kernel] - core MSBUILD/XBUILD only framework,
+1. [https://github.com/comdiv/qorpent.kernel] - core MSBUILD/XBUILD only framework,
 that provide packaging and build environment for all other packages, it's must-be package
-2. [qorpent.sys|https://github.com/comdiv/qorpent.sys] - Qorpent Application Framework (QAF) 
+2. [https://github.com/comdiv/qorpent.sys] - Qorpent Application Framework (QAF) 
 core libraries, IoC-based, low-coupled, contains multi-targeted action based MVC engine to
 quickly externalize, secure and integrate your solution
